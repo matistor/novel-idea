@@ -4,5 +4,5 @@
 * ## 随时随地有感即发
 * ## 更新时间不定
 ## 内容组成
-* ### [本科阶段](https://github.com/matistor/novel-idea/tree/master/Undergraduate)
-* ### [硕士阶段](https://github.com/matistor/novel-idea/tree/master/graduate)
+* ## [本科阶段](https://github.com/matistor/novel-idea/tree/master/Undergraduate)
+* ## [硕士阶段](https://github.com/matistor/novel-idea/tree/master/graduate)
